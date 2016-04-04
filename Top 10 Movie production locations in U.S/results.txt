@@ -1,0 +1,65 @@
+{
+        "result" : [
+                {
+                        "_id" : {
+                                "movie_location" : "Los Angeles California USA"
+                        },
+                        "count" : 26205
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "New York City New York USA"
+                        },
+                        "count" : 15585
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "San Francisco California USA"
+                        },
+                        "count" : 3066
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Chicago Illinois USA"
+                        },
+                        "count" : 3003
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Culver City California USA"
+                        },
+                        "count" : 2063
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Burbank California USA"
+                        },
+                        "count" : 2004
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Las Vegas Nevada USA"
+                        },
+                        "count" : 1462
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Austin Texas USA"
+                        },
+                        "count" : 1455
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Atlanta Georgia USA"
+                        },
+                        "count" : 1441
+                },
+                {
+                        "_id" : {
+                                "movie_location" : "Philadelphia Pennsylvania USA"
+                        },
+                        "count" : 1395
+                }
+        ],
+        "ok" : 1
+}
