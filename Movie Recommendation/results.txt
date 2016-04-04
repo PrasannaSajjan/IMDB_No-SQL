@@ -1,0 +1,12 @@
+       title          | year
+----------------------+------
+ 2 Days in the Valley | 1996
+ Android Cop          | 2014
+ Ballistic            | 1995
+ Beyond the Game      | 2015
+ Black Dynamite       | 2009
+ Blood and Bone       | 2009
+ Chocolate City       | 2015
+ City of Industry     | 1997
+ Eagle Eye            | 2008
+ Echo Effect          | 2015
